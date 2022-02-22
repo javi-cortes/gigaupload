@@ -28,5 +28,5 @@ and try the API
 Execute ```make test``` to run all the tests
 
 ## Additional tools
-Execute ```make psql``` to have psql terminal to postgres
+Execute ```make psql``` to have psql terminal to postgres.
 Execute ```make bash``` to have shell into app service.
